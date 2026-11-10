@@ -2,7 +2,6 @@
   "name": "hospital-insurance-app",
   "version": "1.0.0",
   "main": "node_modules/expo/AppEntry.js",
-  "homepage": "https://gitakshaya.github.io/lifeline-hospital-",
   "scripts": {
     "start": "expo start",
     "android": "expo run:android",
