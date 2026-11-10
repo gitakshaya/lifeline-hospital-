@@ -32,7 +32,10 @@
     "web": {
       "bundler": "metro",
       "output": "single",
-      "favicon": "./assets/icon.png"
+      "favicon": "./assets/icon.png",
+      "experiments": {
+        "baseUrl": "/lifeline-hospital-"
+      }
     }
   }
 }
